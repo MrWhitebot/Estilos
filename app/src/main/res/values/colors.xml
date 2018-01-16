@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#152bba</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorFuente">#3f51b5</color>
+    <color name="colorBackActivity1">#30EDDF</color>
+    <color name="colorBackActivity2">#902F9F</color>
+    <color name="colorBackActivity3">#00ff55</color>
+
+</resources>
